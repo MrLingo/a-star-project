@@ -32,6 +32,7 @@ dynamism for heuristics.
 
 
 You can set any start aswell as end node in the init script  
+
 ![Image description](init_code.png)
 
 
