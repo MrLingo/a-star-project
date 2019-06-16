@@ -14,16 +14,9 @@ A* uses heuristic function to determine in which direction to proceed in given s
 
 ` f(n) = g(n) + h(n) `
 
-Given that n is a node, g(n) - distance from the start node and h(n) is the heuristic 
+Given that n is a node, g(n) - distance from the start node and h(n) is the heuristic function depending on the problem.  
 
-function depending on the problem.
-
-As a heuristic function i use the distance from each node to the center node 55. I found 
-
-this reasonable since you can choose any node as a starting and end point, preventing any 
-
-dynamism for heuristics.
-
+As a heuristic function i use the distance from each node to the center node 55. I found this reasonable since you can choose any node as a starting and end point, preventing any dynamism for heuristics.  
 
 You can set any start aswell as end node in the init script  
 
