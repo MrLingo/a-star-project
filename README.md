@@ -42,9 +42,7 @@ percenteges how many of each segment has been visisted.
 ## Prerequisets:
 
 Python 3.7
-PyCharm ( Any IDE that supports Python will be sufficient enough, but will require 
-
-different approach in terms of setup and initializing )
+PyCharm ( Any IDE that supports Python will be sufficient enough, but will require different approach in terms of setup and initializing )
 matplotlib
 
 
