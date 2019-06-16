@@ -5,9 +5,9 @@ My own custom implementation of A* algorithm from scratch using python.
 The algorithm works inside a graph structure consisting of 59 nodes respectively named 
 
 with their numbers, whose links represent three type of street segments: 
-Standard ( Between nodes that are on regular street )
-Transition ( If second node is inside roundabout, but not vica verca )
-Roundabout ( Between nodes inside a roundabout )
+Standard( Between nodes that are on regular street )
+Transition( If second node is inside roundabout, but not vica verca )
+Roundabout( Between nodes inside a roundabout )
 
 ![Image description](street_map_with_labels.png)
 
