@@ -20,12 +20,10 @@ As a heuristic function i use the distance from each node to the center node 55.
 
 You can set any start aswell as end node in the init script  
 
-![Image description](init_code.png)
+![Image description](init_code.png)  
 
 
-After the algorithm has done it's job it shows you statistics using pie chart showing in 
-
-percenteges how many of each segment has been visisted.   
+After the algorithm has done it's job it shows you statistics using pie chart showing in percenteges how many of each segment has been visisted.     
 ![Image description](chart.png)
 
 
