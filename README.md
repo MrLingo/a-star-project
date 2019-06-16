@@ -62,4 +62,4 @@ Put the scripts and tests folder from the archive inside the project folder.
 Install matplotlib
 1. `File` -> `Settings`
 2. `Project <name of the project>` -> `Project Interpreter` -> button with `+` sign on it.( add package )  
-3. type matplotlib and install
+3.  Type matplotlib and install
