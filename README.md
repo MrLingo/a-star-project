@@ -9,7 +9,7 @@ Standard ( Between nodes that are on regular street )
 Transition ( If second node is inside roundabout, but not vica verca )
 Roundabout ( Between nodes inside a roundabout )
 
-![Image description](street_map_with_lables.png)
+![Image description](street_map_with_labels.png)
 
 
 A* uses heuristic function to determine in which direction to proceed in given situation. 
@@ -31,7 +31,7 @@ this reasonable since you can choose any node as a starting and end point, preve
 dynamism for heuristics.
 
 
-You can set any start aswell as end node in the init script
+You can set any start aswell as end node in the init script  
 ![Image description](init_code.png)
 
 
