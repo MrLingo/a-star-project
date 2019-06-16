@@ -12,11 +12,7 @@ Roundabout ( Between nodes inside a roundabout )
 ![Image description](street_map_with_labels.png)
 
 
-A* uses heuristic function to determine in which direction to proceed in given situation. 
-
-
-![equation]()
-
+A* uses heuristic function to determine in which direction to proceed in given situation.  
 
 ` f(n) = g(n) + h(n) `
 
