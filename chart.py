@@ -6,7 +6,7 @@ def render_chart(roundabout_links, transition_links, standard_links):
     labels = 'Roundabout street links', 'Standard street links', 'Transition street links'
     sizes = [roundabout_links, standard_links, transition_links]
     colors = ['gold', 'yellowgreen', 'orange']
-    explode = (0.01, 0.01, 0.01)  # explode 1st slice
+    explode = (0.01, 0.01, 0.01)
 
     # Plot
     plt.pie(sizes, explode=explode, labels=labels, colors=colors,
