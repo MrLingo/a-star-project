@@ -7,7 +7,7 @@ The algorithm works inside a graph structure consisting of 59 nodes respectively
 - Transition( If second node is inside roundabout, but not vica verca )
 - Roundabout( Between nodes inside a roundabout )
 
-![Image description](street_map_with_labels.png)
+![Image description](images\street_map_with_labels.png)
 
 
 A* uses heuristic function to determine in which direction to proceed in given situation.  
