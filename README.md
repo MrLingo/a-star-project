@@ -1,5 +1,5 @@
 
-# A Star Project
+# A* Project
 
 My own custom implementation of A* algorithm from scratch using python.
 The algorithm works inside a graph structure consisting of 59 nodes respectively named with their numbers, whose links represent three type of street segments:  
