@@ -46,3 +46,7 @@ Install matplotlib
 1. `File` -> `Settings`
 2. `Project <name of the project>` -> `Project Interpreter` -> button with `+` sign on it.( add package )  
 3.  Type matplotlib and install
+
+## References:
+Street map image taken from:  
+https://www.dreamstime.com/stock-illustration-map-top-view-city-road-trees-pattern-kids-wall-floor-interior-design-image74350164
