@@ -23,7 +23,7 @@ You can set any start aswell as end node in the init script
 ![Image description](images/init_code.png)  
 
 
-After the algorithm has done it's job it shows you statistics using pie chart showing in percenteges how many of each segment has been visisted.     
+After the algorithm has done it's job it shows you statistics using pie chart showing in percenteges how many of each segment has been visited.     
 ![Image description](images/chart.png)
 
 
