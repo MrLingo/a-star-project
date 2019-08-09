@@ -31,16 +31,13 @@ After the algorithm has done it's job it shows you statistics using pie chart sh
 ## Prerequisets:
 
 - Python 3.7  
-- PyCharm ( Any IDE that supports Python will be sufficient enough, but will require different approach in terms of setup and initializing )  
 - matplotlib
-
 
 ## Getting started:
 1. Download the archive from this repository.
-2. Open PyCharm
-3. `File` -> `New Project...`
-Put the scripts and tests folder from the archive inside the project folder.
-4. `Run` -> `Run...` -> init
+2. `Start` -> type python  
+3. select IDLE ( the integrated development environment for Python)
+4. `File` -> `Open...` -> select init.py
 
 Install matplotlib
 1. `File` -> `Settings`
