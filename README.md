@@ -37,6 +37,7 @@ After the algorithm has done it's job it shows you statistics using pie chart sh
 ## Getting started:
 1. Locate IDLE ( the integrated development environment for Python)
 2. `File` -> `Open...` -> select init.py
+3. In the new window -> `Run` -> `Run Module`
 
 ## Installing Pip and Matplotlib:
 
