@@ -32,17 +32,16 @@ After the algorithm has done it's job it shows you statistics using pie chart sh
 
 - Python 3.7  
 - matplotlib
+- pip3
 
 ## Getting started:
-1. Download the archive from this repository.
-2. `Start` -> type python  
-3. Select IDLE ( the integrated development environment for Python)
-4. `File` -> `Open...` -> select init.py
+1. Locate IDLE ( the integrated development environment for Python)
+2. `File` -> `Open...` -> select init.py
 
-Install matplotlib
-1. `File` -> `Settings`
-2. `Project <name of the project>` -> `Project Interpreter` -> button with `+` sign on it.( add package )  
-3.  Type matplotlib and install
+## Installing Pip and Matplotlib:
+
+`python -m pip install -U pip`
+`python -m pip install -U matplotlib`
 
 ## Sources:
 Street map image:    
