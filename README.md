@@ -40,7 +40,7 @@ After the algorithm has done it's job it shows you statistics using pie chart sh
 
 ## Installing Pip and Matplotlib:
 
-`python -m pip install -U pip`
+`python -m pip install -U pip`  
 `python -m pip install -U matplotlib`
 
 ## Sources:
