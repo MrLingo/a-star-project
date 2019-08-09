@@ -36,7 +36,7 @@ After the algorithm has done it's job it shows you statistics using pie chart sh
 ## Getting started:
 1. Download the archive from this repository.
 2. `Start` -> type python  
-3. select IDLE ( the integrated development environment for Python)
+3. Select IDLE ( the integrated development environment for Python)
 4. `File` -> `Open...` -> select init.py
 
 Install matplotlib
